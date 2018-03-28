@@ -1,0 +1,7 @@
+C:\Users\mzeha\source\repos\Design Patterns Implementation\Design Patterns\obj\Debug\SingleReponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\mzeha\source\repos\Design Patterns Implementation\Design Patterns\obj\Debug\Design Patterns.exe
+C:\Users\mzeha\source\repos\Design Patterns Implementation\Design Patterns\obj\Debug\Design Patterns.pdb
+C:\Users\mzeha\source\repos\Design Patterns Implementation\Design Patterns\bin\Debug\Design Patterns.exe.config
+C:\Users\mzeha\source\repos\Design Patterns Implementation\Design Patterns\bin\Debug\Design Patterns.exe
+C:\Users\mzeha\source\repos\Design Patterns Implementation\Design Patterns\bin\Debug\Design Patterns.pdb
+C:\Users\mzeha\source\repos\Design Patterns Implementation\Design Patterns\obj\Debug\SingleReponsibilityPrinciple.csprojResolveAssemblyReference.cache

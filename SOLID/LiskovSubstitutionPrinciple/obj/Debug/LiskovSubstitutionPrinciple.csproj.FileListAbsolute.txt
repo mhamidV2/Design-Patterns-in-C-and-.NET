@@ -1,0 +1,7 @@
+C:\Users\mzeha\source\repos\Design Patterns Implementation\SOLID - LiskovSubstitutionPrinciple\bin\Debug\SOLID - LiskovSubstitutionPrinciple.exe.config
+C:\Users\mzeha\source\repos\Design Patterns Implementation\SOLID - LiskovSubstitutionPrinciple\bin\Debug\SOLID - LiskovSubstitutionPrinciple.exe
+C:\Users\mzeha\source\repos\Design Patterns Implementation\SOLID - LiskovSubstitutionPrinciple\bin\Debug\SOLID - LiskovSubstitutionPrinciple.pdb
+C:\Users\mzeha\source\repos\Design Patterns Implementation\SOLID - LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csprojResolveAssemblyReference.cache
+C:\Users\mzeha\source\repos\Design Patterns Implementation\SOLID - LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\mzeha\source\repos\Design Patterns Implementation\SOLID - LiskovSubstitutionPrinciple\obj\Debug\SOLID - LiskovSubstitutionPrinciple.exe
+C:\Users\mzeha\source\repos\Design Patterns Implementation\SOLID - LiskovSubstitutionPrinciple\obj\Debug\SOLID - LiskovSubstitutionPrinciple.pdb

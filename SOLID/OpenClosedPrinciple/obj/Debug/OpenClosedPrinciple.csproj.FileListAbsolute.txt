@@ -1,0 +1,7 @@
+C:\Users\mzeha\source\repos\Design Patterns Implementation\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csprojResolveAssemblyReference.cache
+C:\Users\mzeha\source\repos\Design Patterns Implementation\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\mzeha\source\repos\Design Patterns Implementation\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe.config
+C:\Users\mzeha\source\repos\Design Patterns Implementation\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe
+C:\Users\mzeha\source\repos\Design Patterns Implementation\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+C:\Users\mzeha\source\repos\Design Patterns Implementation\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.exe
+C:\Users\mzeha\source\repos\Design Patterns Implementation\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb

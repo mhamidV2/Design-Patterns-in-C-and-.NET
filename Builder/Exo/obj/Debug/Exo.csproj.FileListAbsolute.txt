@@ -1,0 +1,7 @@
+C:\Users\mzeha\OneDrive\Documents\Design Patterns\Builder\Exo\bin\Debug\Exo.exe.config
+C:\Users\mzeha\OneDrive\Documents\Design Patterns\Builder\Exo\bin\Debug\Exo.exe
+C:\Users\mzeha\OneDrive\Documents\Design Patterns\Builder\Exo\bin\Debug\Exo.pdb
+C:\Users\mzeha\OneDrive\Documents\Design Patterns\Builder\Exo\obj\Debug\Exo.csprojResolveAssemblyReference.cache
+C:\Users\mzeha\OneDrive\Documents\Design Patterns\Builder\Exo\obj\Debug\Exo.csproj.CoreCompileInputs.cache
+C:\Users\mzeha\OneDrive\Documents\Design Patterns\Builder\Exo\obj\Debug\Exo.exe
+C:\Users\mzeha\OneDrive\Documents\Design Patterns\Builder\Exo\obj\Debug\Exo.pdb

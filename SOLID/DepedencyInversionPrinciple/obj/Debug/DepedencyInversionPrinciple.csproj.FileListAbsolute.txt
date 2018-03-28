@@ -1,0 +1,10 @@
+C:\Users\mzeha\source\repos\Design Patterns Implementation\DepedencyInversionPrinciple\obj\Debug\DepedencyInversionPrinciple.csprojResolveAssemblyReference.cache
+C:\Users\mzeha\source\repos\Design Patterns Implementation\DepedencyInversionPrinciple\obj\Debug\DepedencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\mzeha\source\repos\Design Patterns Implementation\DepedencyInversionPrinciple\bin\Debug\DepedencyInversionPrinciple.exe.config
+C:\Users\mzeha\source\repos\Design Patterns Implementation\DepedencyInversionPrinciple\bin\Debug\DepedencyInversionPrinciple.exe
+C:\Users\mzeha\source\repos\Design Patterns Implementation\DepedencyInversionPrinciple\bin\Debug\DepedencyInversionPrinciple.pdb
+C:\Users\mzeha\source\repos\Design Patterns Implementation\DepedencyInversionPrinciple\bin\Debug\System.ValueTuple.dll
+C:\Users\mzeha\source\repos\Design Patterns Implementation\DepedencyInversionPrinciple\bin\Debug\System.ValueTuple.xml
+C:\Users\mzeha\source\repos\Design Patterns Implementation\DepedencyInversionPrinciple\obj\Debug\DepedencyInversionPrinciple.csproj.CopyComplete
+C:\Users\mzeha\source\repos\Design Patterns Implementation\DepedencyInversionPrinciple\obj\Debug\DepedencyInversionPrinciple.exe
+C:\Users\mzeha\source\repos\Design Patterns Implementation\DepedencyInversionPrinciple\obj\Debug\DepedencyInversionPrinciple.pdb

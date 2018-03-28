@@ -1,0 +1,7 @@
+C:\Users\mzeha\source\repos\Design Patterns Implementation\BuilderInheritance\bin\Debug\BuilderInheritance.exe.config
+C:\Users\mzeha\source\repos\Design Patterns Implementation\BuilderInheritance\bin\Debug\BuilderInheritance.exe
+C:\Users\mzeha\source\repos\Design Patterns Implementation\BuilderInheritance\bin\Debug\BuilderInheritance.pdb
+C:\Users\mzeha\source\repos\Design Patterns Implementation\BuilderInheritance\obj\Debug\BuilderInheritance.csproj.CoreCompileInputs.cache
+C:\Users\mzeha\source\repos\Design Patterns Implementation\BuilderInheritance\obj\Debug\BuilderInheritance.exe
+C:\Users\mzeha\source\repos\Design Patterns Implementation\BuilderInheritance\obj\Debug\BuilderInheritance.pdb
+C:\Users\mzeha\source\repos\Design Patterns Implementation\BuilderInheritance\obj\Debug\BuilderInheritance.csprojResolveAssemblyReference.cache

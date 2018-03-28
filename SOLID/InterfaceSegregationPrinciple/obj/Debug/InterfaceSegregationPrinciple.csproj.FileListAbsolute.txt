@@ -1,0 +1,7 @@
+C:\Users\mzeha\source\repos\Design Patterns Implementation\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csprojResolveAssemblyReference.cache
+C:\Users\mzeha\source\repos\Design Patterns Implementation\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\mzeha\source\repos\Design Patterns Implementation\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe.config
+C:\Users\mzeha\source\repos\Design Patterns Implementation\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe
+C:\Users\mzeha\source\repos\Design Patterns Implementation\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.pdb
+C:\Users\mzeha\source\repos\Design Patterns Implementation\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.exe
+C:\Users\mzeha\source\repos\Design Patterns Implementation\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.pdb
