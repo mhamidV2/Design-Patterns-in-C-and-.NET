@@ -1,0 +1,6 @@
+C:\Users\mzeha\source\repos\Design Patterns Implementation\Abstract Factory\bin\Debug\Abstract Factory.exe.config
+C:\Users\mzeha\source\repos\Design Patterns Implementation\Abstract Factory\bin\Debug\Abstract Factory.exe
+C:\Users\mzeha\source\repos\Design Patterns Implementation\Abstract Factory\bin\Debug\Abstract Factory.pdb
+C:\Users\mzeha\source\repos\Design Patterns Implementation\Abstract Factory\obj\Debug\Abstract Factory.csproj.CoreCompileInputs.cache
+C:\Users\mzeha\source\repos\Design Patterns Implementation\Abstract Factory\obj\Debug\Abstract Factory.exe
+C:\Users\mzeha\source\repos\Design Patterns Implementation\Abstract Factory\obj\Debug\Abstract Factory.pdb

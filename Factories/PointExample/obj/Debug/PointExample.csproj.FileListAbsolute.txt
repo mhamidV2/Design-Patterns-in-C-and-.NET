@@ -1,0 +1,7 @@
+C:\Users\mzeha\source\repos\Design Patterns Implementation\PointExample\bin\Debug\PointExample.exe.config
+C:\Users\mzeha\source\repos\Design Patterns Implementation\PointExample\bin\Debug\PointExample.exe
+C:\Users\mzeha\source\repos\Design Patterns Implementation\PointExample\bin\Debug\PointExample.pdb
+C:\Users\mzeha\source\repos\Design Patterns Implementation\PointExample\obj\Debug\PointExample.csprojResolveAssemblyReference.cache
+C:\Users\mzeha\source\repos\Design Patterns Implementation\PointExample\obj\Debug\PointExample.csproj.CoreCompileInputs.cache
+C:\Users\mzeha\source\repos\Design Patterns Implementation\PointExample\obj\Debug\PointExample.exe
+C:\Users\mzeha\source\repos\Design Patterns Implementation\PointExample\obj\Debug\PointExample.pdb
